@@ -1,4 +1,4 @@
-/*
+/* TESTE
 // Seção de Declarações das variável
     nome: caracter
     idade, limite, contador: inteiro

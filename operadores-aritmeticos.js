@@ -1,4 +1,4 @@
-/*Var
+/*Var TESTE
 // Seção de Declarações das variáveis 
    resultado, valor1, valor2, valor3 : real
 

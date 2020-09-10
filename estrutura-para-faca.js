@@ -1,4 +1,4 @@
-/*
+/* TESTE
 Var
 // Seção de Declarações das variáveis 
    numero, fatorial, contador : inteiro

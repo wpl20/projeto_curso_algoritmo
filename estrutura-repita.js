@@ -1,4 +1,4 @@
-/*
+/* TESTE
 Var
 // Seção de Declarações das variáveis
    sairLoop: caractere
