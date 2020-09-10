@@ -1,4 +1,4 @@
-/*
+/* TESTE
 Var
 // Seção de Declarações das variáveis 
        nota1 , nota2, media : real

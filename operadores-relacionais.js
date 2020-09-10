@@ -1,4 +1,4 @@
-/*
+/* TESTE GIT COMMIT PELO VISUAL STUDIO CODE
 Var
 // Seção de Declarações das variáveis 
    nota1, nota2 = real
